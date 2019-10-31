@@ -22,7 +22,7 @@ REST conventions for mobx.
 - [Where is it used?](#where-is-it-used)
 - [License](#license)
 
-## Wht Fork
+## Why Fork
 
 Modified to be used in mobx 4
 
